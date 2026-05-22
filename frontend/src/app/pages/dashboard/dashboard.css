@@ -1,0 +1,91 @@
+.dashboard-container {
+
+  min-height: 100vh;
+
+  background: #f1f5f9;
+
+}
+
+.navbar {
+
+  background: #1e293b;
+
+  color: white;
+
+  padding: 15px 30px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+.content {
+
+  padding: 30px;
+
+}
+
+.welcome-card {
+
+  padding: 20px;
+
+  margin-bottom: 20px;
+
+}
+
+.table-card {
+
+  padding: 20px;
+
+}
+
+table {
+
+  width: 100%;
+
+  border-collapse: collapse;
+
+  margin-top: 20px;
+
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  background: white;
+
+}
+
+th {
+
+  background: #1e293b;
+
+  color: white;
+
+}
+
+th, td {
+
+  padding: 15px;
+
+  border: 1px solid #ddd;
+
+}
+
+tr:hover {
+
+  background: #f8fafc;
+
+}
+
+.footer {
+
+  text-align: center;
+
+  padding: 20px;
+
+  color: gray;
+
+}
